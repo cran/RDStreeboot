@@ -1,0 +1,8 @@
+1d12262fd9fecab7ecbd1b266739beef *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+3408eb44157c57e346b647a27dcce6ca *R/treeboot.R
+da3bdd33b992be570361b61ead79c540 *data/faux.network.RData
+bdece30df12a82d7b76355b393674cc2 *man/RDStreeboot-package.Rd
+dfcda0c01d838fa8a25aa92fc9d16a8f *man/faux.network.Rd
+58776f7a3d631d9e7d59ccfcc322bb3a *man/sample.RDS.Rd
+51107f039cc875432b612ed959dcc30a *man/treeboot.RDS.Rd
